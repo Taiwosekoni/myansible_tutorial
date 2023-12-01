@@ -1,3 +1,10 @@
 #list of my servers ipaddress
+[web_server]
 3.80.39.170
+
+[db_server]
 3.91.150.143
+
+
+[app_server]
+54.81.64.122
